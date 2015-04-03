@@ -1,0 +1,11 @@
+
+This is an HP-UX output plugin for XMMS.
+This plugin is based on the OSS output plugin that comes with XMMS 1.2.10.
+A lot of stuff has been stripped out of that plugin and specialized.
+
+It has been tested on a PA-RISC box (C3650) running HP-UX 11.11.
+
+To compile:
+	- Edit the Makefile and run make.
+	- Type "make install" as root to install the plugin.
+
